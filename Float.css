@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     box-sizing: border-box;
   }
@@ -15,10 +16,21 @@
   }
   
   header {
+=======
+header {
+>>>>>>> cbd33dc03dd5747df6e51db74c8ab947129865f1
     background-color: #666;
     padding: 30px;
     text-align: center;
     font-size: 35px;
     color: white;
   }
+<<<<<<< HEAD
   
+=======
+  section::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+>>>>>>> cbd33dc03dd5747df6e51db74c8ab947129865f1
