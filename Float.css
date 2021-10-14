@@ -34,3 +34,14 @@ header {
     clear: both;
   }
 >>>>>>> cbd33dc03dd5747df6e51db74c8ab947129865f1
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+  height: 300px 
+}
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
