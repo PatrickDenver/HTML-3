@@ -8,7 +8,7 @@
   }
   
 header {
-    background-color: #666;
+    background-color: rgb(228, 159, 94);
     padding: 30px;
     text-align: center;
     font-size: 35px;
@@ -37,7 +37,7 @@ nav {
     float: left;
     width: 30%;
     height: 300px;
-    background: #ccc;
+    background: brown;
     padding: 20px;
 }
 @media (max-width: 600px) {
